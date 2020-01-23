@@ -25,6 +25,6 @@ Thiago:
 4- Highlight selections after page reload on Second.aspx
 5- Implement Close button
 
-KPMG:
+****:
 !!!0- Create table(s) for SLIDE #7
 1- Create Resources section table in DB
