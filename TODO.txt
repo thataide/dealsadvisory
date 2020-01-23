@@ -1,0 +1,30 @@
+﻿12/5 VERSION
+
+CHANGES - 12/5 VERSION:
+- Contacts load from DB
+- Changed mouse hover styling
+- Only one tile can be selected (in preparation for SLIDE #7 screen)
+
+CHANGES - 12/2 VERSION:
+- Apps additional information load from DB
+- Quick Links load from DB
+- Mouse hover stilying on all items
+- Side bar when needed on tiles
+- Multiple tiles can be selected
+
+
+
+
+PENDING:
+
+Thiago:
+!!!0- Implement SLIDE #7 (waiting on Chandra)
+1- Load Resources section from DB (waiting on Chandra)
+2- Load Categories and Tiles using DisplayOrder from DB
+3- Do not display anything saying "TO BE UPDATED"
+4- Highlight selections after page reload on Second.aspx
+5- Implement Close button
+
+KPMG:
+!!!0- Create table(s) for SLIDE #7
+1- Create Resources section table in DB
